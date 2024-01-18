@@ -13,6 +13,7 @@
 https://github.com/Auth-Rewrite/public-repo/assets/98907291/6e1d4cc0-9a44-4571-9c26-d91a7d8810aa
 
 <img width="727" alt="jupiter" src="https://github.com/Auth-Rewrite/public-repo/assets/98907291/42faa158-9960-49e7-ab65-f6d5b6d59f98">
+
 ![download](https://github.com/Auth-Rewrite/public-repo/assets/98907291/f28daa07-7246-46ee-bd6e-bd4c3feb4290)
 
 
